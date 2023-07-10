@@ -35,8 +35,9 @@ Antes de executar o projeto, você precisa ter os seguintes requisitos instalado
 5. Crie um novo projeto no Supabase e obtenha as credenciais de autenticação e conexão com o banco de dados.
 
 6. Crie uma tabela chamada `contacts` e os seguintes campos:
+   
 |    Nome    |           Tipo           |   Formato   | 
-| :--------: | :----------------------: | :---------: |
+| ---------- | ------------------------ | ----------- |
 |    name    |          bigint          |     int8    |
 |  telephone |           text           |     text    |
 |    email   |           text           |     text    |
