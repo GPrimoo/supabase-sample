@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">supabase-sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="list_example_name">Gustavo Primo</string>
+
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="add">Criar</string>
+
+    <string name="label">Campo</string>
+    <string name="value">Valor</string>
+
+    <string name="loading">Carregando...</string>
+    <string name="error_title">Ops, ocorreu um erro</string>
+    <string name="error_description">Por favor, tente novamente mais tarde</string>
+
+    <string name="new_contact">Novo</string>
+    <string name="edit_contact">Editar</string>
+    <string name="delete_contact">Deletar</string>
+</resources>

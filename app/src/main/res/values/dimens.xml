@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_none">0dp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="list_inner_space">15dp</dimen>
+    <dimen name="screen_inner_space">36dp</dimen>
+    <dimen name="space_between_fields">8dp</dimen>
+
+    <dimen name="label_size">12sp</dimen>
+    <dimen name="value_size">18sp</dimen>
+
+    <dimen name="size_error_icon">48dp</dimen>
+</resources>

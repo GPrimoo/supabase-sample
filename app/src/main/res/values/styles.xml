@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="field_view_label">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">@dimen/label_size</item>
+    </style>
+    <style name="field_view_value">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/value_size</item>
+    </style>
+    <style name="error">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">@dimen/value_size</item>
+    </style>
+    <style name="error.description">
+        <item name="android:textSize">@dimen/label_size</item>
+    </style>
+</resources>
