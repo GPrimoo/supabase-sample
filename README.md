@@ -42,6 +42,8 @@ Antes de executar o projeto, você precisa ter os seguintes requisitos instalado
 |    email   |           text           |     text    |
 | created_at | timestamp with time zone | timestamptz |
 
+Remova o RLS da tabela ou crie uma política liberando o acesso para todos usuários.
+
 8. Abra o arquivo `Supabase.kt` localizado em `app/src/main/java/com/gprimo/supabase_sample/data/supabase/Supabase.kt` e substitua as constantes `SUPABASE_URL` e `SUPABASE_KEY` pelas suas próprias credenciais.
 
 9. Agora você está pronto para executar o aplicativo Android e explorar o exemplo de uso do Supabase.
