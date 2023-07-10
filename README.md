@@ -10,7 +10,6 @@ O Supabase é uma plataforma open-source que oferece uma solução completa para
 
 - Integração do Supabase em um aplicativo Android
 - Configuração do ambiente Supabase e obtenção das credenciais necessárias
-- Exemplo de autenticação de usuário com e-mail e senha
 - Exemplo de consulta ao banco de dados utilizando a biblioteca Supabase para Kotlin
 - Utilização do padrão arquitetural MVVM para separação de responsabilidades
 
