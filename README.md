@@ -23,7 +23,7 @@ Antes de executar o projeto, você precisa ter os seguintes requisitos instalado
 ## Configuração
 
 1. Clone o repositório para a sua máquina local:
-`git clone https://github.com/seu-usuario/seu-projeto.git`
+`git clone https://github.com/GPrimoo/supabase-sample.git`
 
 2. Abra o projeto no Android Studio.
 
